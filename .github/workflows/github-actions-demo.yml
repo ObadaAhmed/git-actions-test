@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: Matrix CI/CD Pipeline workflow
 
 on:
   push:
